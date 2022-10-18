@@ -40,6 +40,8 @@ class Principessa extends React.Component{
 
 ReactDOM.render(<Principessa informaçoes={dados} />, document.getElementById('root')); */
 
+// stars
+
 class Componente extends React.Component{
 
     //construtor a primeira funcionalidade q o componente executa
